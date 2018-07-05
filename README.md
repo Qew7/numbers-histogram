@@ -1,6 +1,6 @@
 Запускать коммандой
 ```
-ruby histogramator.rb **arguments**
+ruby histogramator.rb arguments
 ```
 
 arguments - число для хистограматизации
